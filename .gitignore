@@ -1,0 +1,6 @@
+/node_modules
+.env
+/config/adminConfig/firebaseSA.key.json
+/config/adminConfig/googleSA.key.json
+/config/adminConfig/oauth2.json
+node_modules/.netlify
